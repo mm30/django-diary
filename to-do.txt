@@ -1,0 +1,13 @@
+
+
+-Customize Django Admin Login
+-Add a Logout Link
+-Restrict Access to Views
+-Add a page for your most recent entries.
+-Give every weekday a color.
+-Show the creation date in the HTML <title> tag.
+-Create an emoji of the day selection for an entry.
+-Paginate the list of entries.
+-Research text2emotion pypi
+    -https://colab.research.google.com/drive/1sCAcIGk2q9dL8dpFYddnsUin2MlhjaRw?usp=sharing#scrollTo=ivUkOaBPEQYr
+-Additional database based on new features, visualization.
